@@ -1,0 +1,2 @@
+# akricode.dev
+Hello! This repository is the personal website for the Kudatu. Focused on web development, Kudatu a.k.a. Akri showcases his skills, outlook in life, and his personal journey as a web developer, IT, freelancer, video editor, social media manager, graphics designer, and youth leader.
